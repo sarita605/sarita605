@@ -4,12 +4,11 @@
 Email Me 👉 ✉️ **saru2887053@gmail.com. 😊😊
 
 - 🔭 **I’m currently working on:** a mjor project.
-- 🌱 **I’m currently learning:** React
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** saru2887053@gmail.com.
-- 😄 **Pronouns:** Srita
+- 🌱 Learning Full Stack Web Devlopement Projects:
+  -   chat App
+  -   Blog website
+  -   wanderLust (Airbnb clone)
+- 📫 **How to reach me:** saru2887053@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 
